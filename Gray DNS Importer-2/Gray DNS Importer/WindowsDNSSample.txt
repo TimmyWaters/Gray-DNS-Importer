@@ -1,0 +1,56 @@
+﻿;
+;  Database file wtvy.com.txt for wtvy.com zone.
+;      Zone version:  2010033289
+;
+
+@                       IN  SOA edns01.graydns.com. dnsadmin.gray.tv. (
+                        		2010033289   ; serial number
+                        		900          ; refresh
+                        		600          ; retry
+                        		2592000      ; expire
+                        		3600       ) ; default TTL
+
+;
+;  Zone NS records
+;
+
+@                       NS	edns01.graydns.com.
+edns01.graydns.com.     A	64.94.11.243
+@                       NS	edns04.gray.tv.
+edns04.gray.tv.         A	65.141.42.188
+@                       NS	edns02.gray.tv.
+edns02.gray.tv.         A	99.45.44.27
+@                       NS	edns03.graydns.com.
+edns03.graydns.com.     A	76.209.10.28
+
+;
+;  Zone records
+;
+
+@                       A	34.194.230.166
+@                       MX	10	d218295a.ess.barracudanetworks.com.
+@                       MX	10	d218295b.ess.barracudanetworks.com.
+@                       TXT	( "facebook-domain-verification=fimoxceyyjb4n92tgmxzl5iozt2z57" )
+@                       TXT	( "MS=ms55362190" )
+@                       TXT	( "google-site-verification=fWWdemdG386kItg_4MlxzzNaN0BiCWpEYCOvbPXHGwg" )
+@                       TXT	( "v=spf1 include:spf.protection.outlook.com -all" )
+@                       TXT	( "BPL=7962380" )
+_acme-challenge         TXT	( "P42P4EX7mRUjUfT2402sHJAh3EBqCi5k9mU0nMqViKo" )
+_autodiscover._tcp      SRV	0 0 443	autodiscover.outlook.com.
+autodiscover            CNAME	autodiscover.outlook.com.
+circulars               CNAME	www.circularhub.com.
+deals                   CNAME	wtvy.upickem.net.
+ftp                     A	142.190.38.51
+m                       A	65.79.169.161
+manage                  A	216.74.146.34
+modules                 CNAME	api.circularhub.com.
+subscriptions           TXT	( "v=spf1 include:secondstreetmail.com" )
+_domainkey.subscriptions TXT	( "t=y;o=~" )
+ssm._domainkey.subscriptions TXT	( "v=DKIM1;k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkNIlDfvixC6aQ55P0Uv0LZjQm8ox+rl1wRChnEeC8PPMEsO04F7Pv8xooXfKlK39AUkq3woDQekd2aEGZgHrHN9jPXl61yYNC3VmRbPjmpUxXBFnteXnsUhQXNVN616szIIBJz67KBrQXJpOP570sGfrRJD/HlBJbKDONqwx2uQIDAQAB" )
+ssbounces.subscriptions CNAME	bounces.secondstreetmail.com.
+vpn                     A	142.190.38.50
+vpn2                    A	63.151.196.66
+wn                      CNAME	wn.wtvy.com.edgesuite.net.
+ww2                     CNAME	ww2.wtvy.com.edgesuite.net.
+www                     CNAME	gray-wtvy-prod.arc-dns.net.
+_acme-challenge.www     TXT	( "vMrwhJ-1oBu8tkmtoj6hoqwXfbmS-qBFdpTpfixtP_c" )

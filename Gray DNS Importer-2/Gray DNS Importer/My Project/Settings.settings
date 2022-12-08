@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Select Folder</Value>
+    </Setting>
+    <Setting Name="MyCredentialsDev" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3mM44UbhEZX9dZ_2xYLMBB9kpH96btr8jwoG9:3thQdQwSSywVHDoo7JWrEx</Value>
+    </Setting>
+    <Setting Name="MyCredentialsProd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9ER4dLhV1zA_6fKMnFpuMu7pkEayD9GLet:BWr66Yzx8oSRwpkXXChiLt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

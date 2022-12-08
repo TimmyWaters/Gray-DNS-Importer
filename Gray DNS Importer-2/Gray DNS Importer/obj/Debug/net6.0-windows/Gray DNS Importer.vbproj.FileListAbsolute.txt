@@ -1,0 +1,20 @@
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.exe
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.dll.config
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.deps.json
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.runtimeconfig.json
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.dll
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Gray DNS Importer.pdb
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.vbproj.AssemblyReference.cache
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray_DNS_Importer.Form1.resources
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.vbproj.GenerateResource.cache
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.AssemblyInfoInputs.cache
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.AssemblyInfo.vb
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.vbproj.CoreCompileInputs.cache
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.vbproj.CopyComplete
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.dll
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\refint\Gray DNS Importer.dll
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.pdb
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\Gray DNS Importer.genruntimeconfig.cache
+C:\Users\timothy.waters.GRAYTV\Source\Repos\Gray DNS Importer-2\Gray DNS Importer\obj\Debug\net6.0-windows\ref\Gray DNS Importer.dll
